@@ -1,7 +1,7 @@
 title: Test
 description: Test web site
 template: defaut
-language: Lua
+language: Cubo
 readme_file: 'readme.md'
 iframe:
 readme: 
