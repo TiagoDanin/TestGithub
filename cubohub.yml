@@ -1,7 +1,7 @@
 title: Test
 description: Test web site
 template: basic
-langguage: Lua
+language: Lua
 size: 100
 iframe:
 readme: 
