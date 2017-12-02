@@ -1,8 +1,8 @@
 title: Test
 description: Test web site
-template: basic
-language: Python
-size: 100
+template: defaut
+language: Lua
+readme_file: 'readme.md'
 iframe:
 readme: 
 links:
