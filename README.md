@@ -1,3 +1,3 @@
 # TestGithub '-'
-Love... Love... Love... Open Source <3
+Love Open Source <3
 
