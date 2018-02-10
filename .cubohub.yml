@@ -5,6 +5,3 @@ language: HTML
 description: MY DESCRIPTION
 links:
   Github: https://github.com/MyUser/MyRepo
-gitauthor:
-  name: 'CuboHub'
-  email: 'Bot@CuboHub.github.io'
