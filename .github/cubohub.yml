@@ -1,0 +1,5 @@
+template: 'https://raw.githubusercontent.com/TiagoDanin/TiagoDanin.github.io/master/cubohub/default.html'
+readme: True
+gitauthor:
+  name: 'TiagoDanin'
+  email: 'TiagoDanin@outlook.com'
