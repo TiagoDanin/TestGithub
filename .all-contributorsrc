@@ -1,0 +1,25 @@
+{
+  "projectName": "TestGithub",
+  "projectOwner": "TiagoDanin",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "tiagodanin",
+      "name": "Tiago Danin",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/5731176?v=4",
+      "profile": "https://TiagoDanin.github.io/",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
