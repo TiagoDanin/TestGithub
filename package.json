@@ -36,12 +36,12 @@ const noPin = deps => {
 	return deps
 }
 
-module.exports = (ctx) => {
+module.exports = ctx => {
 	if (!ctx.data.dependencies) {
 		return false
 	}
 
 	ctx.data.dependencies = noPin(ctx.data.dependencies)
 	ctx.data.devDependencies = noPin(ctx.data.devDependencies)
-	return 'fds'
+	return ctx.data
 }
