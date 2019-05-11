@@ -49,12 +49,12 @@
 	],
 	"dependencies": {
 		"@octokit/rest": "16.25.3",
-		"axios": "0.18.0",
-		"meow": "5.0.0",
-		"update-notifier": "3.0.0"
+		"axios": "^0.18.0",
+		"meow": "^5.0.0",
+		"update-notifier": "^3.0.0"
 	},
 	"devDependencies": {
-		"xo": "0.24.0"
+		"xo": "^0.24.0"
 	},
 	"xo": {
 		"rules": {
