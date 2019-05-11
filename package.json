@@ -1,5 +1,8 @@
-{
-  "author": "TiagoDanin <TiagoDanin@outlook.com>",
-  "license": "MIT",
-  "title": "testgithub"
+module.exports = (ctx) => {
+	if (ctx.data.title) {
+		ctx.data.title = 'Hello!'
+	} else {
+		return false // No git push
+	}
+	return ctx.data // or ctx.raw
 }
