@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: test
-labels: enhancement, aaa
+labels: 
 
 ---
 
