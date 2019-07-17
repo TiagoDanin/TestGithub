@@ -9,4 +9,4 @@ community_bridge: TiagoDanin
 liberapay: TiagoDanin
 issuehunt: TiagoDanin
 otechie: TiagoDanin
-custom: "javascript://alert('xss')"
+custom: "javascript"
